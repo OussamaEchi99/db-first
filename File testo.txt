@@ -1,0 +1,17 @@
+Auto usate
+
+Id - INT - PRIMARY_KEY(NOTNULL, UNIQUE,INDEX) - AUTO_INCREMENT
+Marca - VARCHAR(30) - NOTNULL
+Modello - VARCHAR(40) - NOTNULL
+Cilindrata - SMALINT - NOTNULL
+Motore - VARCHAR(20)
+Prezzo - DECIMAL(7, 2) - NOTNULL
+Carburante VARCHAR(10) - NOTNULL
+Numero km strada percorsa - MEDIUMINT NOTNULL
+Anno Immatricolzione YEAR - NOTNULL
+Cambio - VARCHAR(20)
+Tipologià -VARCHAR(15)
+Posti - TINYINT
+Consumi - FLOAT (3, 1)
+Classe Emissione - VARCHAR(7)
+Trazione - VARCHAR(15)
